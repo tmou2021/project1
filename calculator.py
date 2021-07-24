@@ -47,4 +47,4 @@ while True:
     else:
         print("Invalid Input")
 
-input()
+
